@@ -5,4 +5,4 @@
 #eg. usage maxSuma[],k() where a is the array input and that k is interval
 #maxSum2 was attempt at doing it for all values of k.
 #toString can be call to print b[] array for maxSum method
-
+#java file:src/cs6212proj3/MVBLNClass.java
